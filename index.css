@@ -1,0 +1,8 @@
+.cats p {
+  background-color: coral;
+  font-size: 20px;
+}
+.dogs p {
+  background-color: steelblue;
+  font-size: 21px;
+}
